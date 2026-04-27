@@ -1,4 +1,4 @@
-nama_asli = "faiz"
+nama_asli = "RIZA"
 
 nama = input("Masukkan nama anda: ")
 while nama.lower() != nama_asli:
